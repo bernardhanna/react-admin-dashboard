@@ -1,3 +1,6 @@
+![Screenshot from 2023-01-11 18-19-57](https://user-images.githubusercontent.com/47034430/211886641-9dd3ce89-daa4-492a-ae72-27a23ddd7695.png)
+
+
 # React Admin Dashboard
 
 Ensure latest version of node is installed with ```node --version```
